@@ -31,6 +31,7 @@ h1{
 
 .choice:hover{
     background-color: #081b31;
+    cursor: pointer;
 }
 
 img{
